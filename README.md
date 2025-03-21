@@ -35,7 +35,7 @@
 Темы: Виды оценок, Наивный Байесовский классификатор, сравнение моделей с помощью t-тестов, линейный и квадратичный дискриминантный анализ.
 
 Задание 10. Парсинг и анализ вакансий с hh.ru
-Темы: API hh.ru, анализ вакансии DS/ML, кластеризация вакансий
+Темы: API hh.ru, анализ вакансии DS/ML, кластеризация вакансий.
 Новые инструменты: requests, json.
 
 # Projects description
@@ -75,5 +75,5 @@ Task 9. Statistics and Bayesian classifiers.
 Topics: Types of estimates, Naive Bayes classifier, model comparison using t-tests, linear and quadratic discriminant analysis.
 
 Task 10. Job parsing and analysis with hh.ru
-Topics: API hh.ru , DS/ML vacancy analysis, vacancy clusterization
+Topics: API hh.ru , DS/ML vacancy analysis, vacancy clusterization.
 New tools: requests, json.
